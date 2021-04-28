@@ -1,1 +1,18 @@
 # demo_selenium
+
+# Selenium Tutorial
+* Assigment google docs: https://docs.google.com/document/d/1NAmY9wBu9UHH7mIVJ7e47IgIKICM0S6FBaC1AFmrh38/edit 
+* Tutorial https://selenium-python.readthedocs.io/ 
+** Setting>>help>>about chrome check version
+** Download driver https://selenium-python.readthedocs.io/installation.html#drivers
+** Select the correct version then download and extract file to working directory
+* Activate virtual environment and Installation $conda install selenium
+```
+ $conda create -n demo_selenium python=3.6
+ $conda activate demo_selenium
+ $cd demo_selenium/
+ $conda install selenium
+ $conda install jupyterlab
+ $jupyter notebook
+```
+* Open jupyter
